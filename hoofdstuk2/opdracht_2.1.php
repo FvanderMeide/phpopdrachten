@@ -12,7 +12,7 @@
     <meta charset="utf-8">
     <meta name="description" content="opdracht X">
     <meta name="keywords" content="keyword 1, keyword 2">
-    <link rel="stylesheet" type="text/css" href="">
+    <link rel="stylesheet" type="text/css" href=>
     <title>
         opdracht 2.2
     </title>

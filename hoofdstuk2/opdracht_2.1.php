@@ -1,9 +1,9 @@
 <?php
 /**
 * User: Fran van der Meide
-* Date: Date
-* Time: **:** PM
-* File: index.php
+* Date: 10-2-2020
+* Time: 15:30 PM
+* File: opdracht_2.1.php
 */
 ?>
 
